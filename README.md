@@ -5,3 +5,9 @@ A to-do list web application is a simple and popular web tool that allows users 
 ## Demo
 
 Check out the live demo [here](http://192.168.191.110:5500/index.html).
+
+# Contact
+For any inquiries, reach out at [actorankit6386@gmail.com].
+- GitHub: @Scoderankit.
+- Linkedin: linkedin.com/in/ankit-tiwari0123.
+- Instagram: @ankit_1868.
